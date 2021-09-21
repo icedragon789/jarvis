@@ -1,0 +1,35 @@
+@ TAR N RNG XXXXX.XX BR YYY.YY SP SS.SS DIR ZZZ.ZZ NULL
+@ "TAR1RNG12345.67BR321.12SP11.11DIR001.10\0"
+@ Values:
+@ s0 : kcharge
+@ s1 : lbarrel
+@ s2 : mprojectile
+@ s3 : tbarrel 
+@ s4 : tar n
+@ s5 : rng xxxxx.xx
+@ s6 : br yyy.yy
+@ s7 : dir zzz.zzz
+@ s8 : 2.0 
+@ s9 : 3.14159
+@ s10 : 180
+@ s11 : 9.8
+@ s12 : a_projectile
+@ s13 : v_projectile
+@ s14 : phi
+@ s15 : v_proj_xy
+@ s16 : v_proj_z
+@ s17 : t_flight_uncor
+@ s18 : R_projectile_uncor
+@ s19 : theta
+@ s20 : R_x
+@ s21 : R_y
+@ s22 : D
+@ s23 : D_x
+@ s24 : D_y
+@ s25 : Bearing_aim
+@ s26 : sp ss.ss
+@ s27 : R_aim
+@ s28 : t_flight_cor
+@ s29 : elev_aim
+@ s30 : M_charge
+@ s31 : 
